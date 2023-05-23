@@ -102,4 +102,16 @@
         margin-top: 32px;
 
     }
+
+    .footer-body {
+        padding: 30px 16px 0 16px;
+    }
+
+    .footer-content {
+        font-size: 20px;
+    }
+
+    .footer-icon a {
+        font-size: 26px;
+    }
 }
