@@ -3,7 +3,6 @@
     input.mt-16 {
         font-size: 15px;
     }
-  
 }
 
 /* Tablet & Mobile */
@@ -25,21 +24,6 @@
         line-height: 2;
     }
 
-   
-
-    .footer-icon a{
-        font-size: 35px;
-        margin: 0 8px;
-    }
-
-    .footer-content {
-        font-size: 27px;
-    }
-
-    .footer-content a {
-        padding: 12px 0;
-        display: inline-block;
-    }
 }
 
 /* Tablet */
@@ -104,7 +88,7 @@
     }
 
     .footer-body {
-        padding: 30px 16px 0 16px;
+        padding: 30px 16px;
     }
 
     .footer-content {
